@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/hexshield/hidden"
+//	"$translucent"		"1"
+
+	"$nodecal"		"1"
+
+	"$surfaceprop"		"glass"
+
+	"$cloakpassenabled"	"1"
+	"$cloakfactor"		"0.9999999"
+	"$refractamount"	"99999.0"
+	"$cloakcolortint"	"[1.0 1.0 1.0]"
+}

@@ -1,0 +1,9 @@
+"Refract"
+{
+//	"$dudvmap"		"effects/hexshield/refracteffect_4"
+	"$normalmap"		"effects/hexshield/refracteffect_4"
+
+	"$refractamount"	"0.05"
+	"$bluramount"		"0"
+//	"$refracttint"		"[1.0 1.0 1.0]"
+}
